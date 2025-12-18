@@ -6,6 +6,7 @@ How much does it cost to collect, process, and sequence eDNA or metagenomic samp
 
 - a figure with depth per sample and number of samples
 - contours marking when a server is needed, when $5k is needed, etc
+- points indicating typical study designs
 
 How well represented are taxa across the globe in sequence repos?
 
