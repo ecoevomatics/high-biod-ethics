@@ -17,3 +17,8 @@ How well represented are taxa across the globe in sequence repos?
 How different ways of knowing see sequencing, taxonomy, abstraction. How different lived experiences inform trust in genetics research
 
 Data sov is an important part of the solution as well as training as well as improved tools (more efficient algos, better reference databases)
+
+- CARE and FAIR
+- scarcity mindset to think CARE limits FAIR
+- rather than less benefit for oppresor/few, more benefit sharing for oppressed/many
+
