@@ -14,4 +14,6 @@ How well represented are taxa across the globe in sequence repos?
 - rarefy occurrences with seq data, divide that by rarefaction of all occurrences
 - use bivariate pallette to show estimate and error
 
+How different ways of knowing see sequencing, taxonomy, abstraction. How different lived experiences inform trust in genetics research
+
 Data sov is an important part of the solution as well as training as well as improved tools (more efficient algos, better reference databases)
